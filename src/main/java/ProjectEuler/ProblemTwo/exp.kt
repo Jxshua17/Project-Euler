@@ -11,7 +11,6 @@ fun main(){
     var c = a + b
     println(c)
 
-    var i = 3
     var j = b //the number that will be the sum of all the even numbers in the sequence.
 
     while (a < 4000000 && b < 4000000 && c < 4000000){
