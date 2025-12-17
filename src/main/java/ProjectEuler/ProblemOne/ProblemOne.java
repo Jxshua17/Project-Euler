@@ -1,4 +1,4 @@
-package ProjectEuler;
+package ProjectEuler.ProblemOne;
 
 public class ProblemOne {
 
