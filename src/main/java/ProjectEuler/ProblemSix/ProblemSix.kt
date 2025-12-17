@@ -14,7 +14,7 @@ fun main() {
     }
 
     val l = square(j) - k
-    println("Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum is $l")
+    println("The difference between the sum of the squares of the first one hundred natural numbers and the square of the sum is $l")
 }
 
 fun square(x: Int): Int {
